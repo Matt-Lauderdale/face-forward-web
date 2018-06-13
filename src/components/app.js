@@ -4,7 +4,6 @@ import { fetchAppsIfNeeded } from '../redux/actions'
 
 import Card from './card'
 
-
 class App extends Component {
 
   componentDidMount() {
